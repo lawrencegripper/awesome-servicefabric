@@ -12,11 +12,19 @@ Starting Point
 * [Service Fabric Party Cluster](https://aka.ms/tryservicefabric) - try a free, limited-time usage Service Fabric cluster hosted on Microsoft Azure
 * [Service Fabric code samples](https://azure.microsoft.com/en-us/resources/samples/?service=service-fabric)
 
-Interesting Blogs
+Installation / Setup
 -------------------
-* [Service Fabric Team Blog](https://blogs.msdn.microsoft.com/azureservicefabric/)
+
+Testing
+-------------------
+
+Continuous Integration & Delivery
+-------------------
 
 Networking and Routing
 -------------------
 * [Traefik on Service Fabric](https://github.com/jjcollinge/traefik-on-service-fabric/) - Ingress and Routing provider to enable [Traefik](https://traefik.io/) integration
 
+Interesting Blogs
+-------------------
+* [Service Fabric Team Blog](https://blogs.msdn.microsoft.com/azureservicefabric/)
