@@ -33,12 +33,18 @@ Installation / Setup
 Testing
 -------------------
 
-Continuous Integration & Delivery
+Continuous Integration, Monitoring & Delivery
 -------------------
+* [Service Fabric Watchdog](https://github.com/peterbryntesson/ServiceFabric.Watchdog) - A framework for exposing custom metrics and monitoring them with a watchdog in Azure Service Fabric. 
 
 Networking and Routing
 -------------------
 * [Traefik on Service Fabric](https://github.com/jjcollinge/traefik-on-service-fabric/) - Ingress and Routing provider to enable [Traefik](https://traefik.io/) integration
+
+Code, SDKs and Integrations
+-------------------
+* [Unofficial Management SDK for golang](https://godoc.org/github.com/jjcollinge/servicefabric) - Package servicefabric is an opinionated Service Fabric client written in Golang
+* [Example Hosting Redis](https://github.com/lawrencegripper/RedisOnSerivceFabric-Example) - An example project showing two different approaches for hosting Redis as a GuestExecutable
 
 Interesting Blogs
 -------------------
