@@ -7,8 +7,10 @@ A curated list of awesome SF stuff inspired by other [awesome-*](https://github.
 
 Starting Point
 -------------------
-* [Service Fabric Docs](https://docs.microsoft.com/en-us/azure/service-fabric/) - Public documentation from Microsoft
+* [Service Fabric Docs](https://docs.microsoft.com/en-us/azure/service-fabric/) - Public documentation from Microsoft with [overview](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-overview), [architecture](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-architecture) and [terminology](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-technical-overview)
 * [Service Fabric issue tracker](https://github.com/azure/service-fabric-issues/issues)
+* [Service Fabric Party Cluster](https://aka.ms/tryservicefabric) - try a free, limited-time usage Service Fabric cluster hosted on Microsoft Azure
+* [Service Fabric code samples](https://azure.microsoft.com/en-us/resources/samples/?service=service-fabric)
 
 Networking and Routing
 -------------------
