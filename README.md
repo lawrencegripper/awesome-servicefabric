@@ -45,6 +45,7 @@ Code, SDKs and Integrations
 -------------------
 * [Unofficial Management SDK for golang](https://godoc.org/github.com/jjcollinge/servicefabric) - Package servicefabric is an opinionated Service Fabric client written in Golang
 * [Example Hosting Redis](https://github.com/lawrencegripper/RedisOnSerivceFabric-Example) - An example project showing two different approaches for hosting Redis as a GuestExecutable
+* [IAsyncEnumerable Bridge for Service Fabric Reliable Collections](https://gist.github.com/aelij/987d974c811865029564f1bbeffb6b47) - An IAsyncEnumerable Bridge to enable LINQ like queries on Service Fabric Reliable Collections 
 
 Interesting Blogs
 -------------------
