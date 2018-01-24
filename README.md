@@ -50,3 +50,13 @@ Code, SDKs and Integrations
 Interesting Blogs
 -------------------
 * [Service Fabric Team Blog](https://blogs.msdn.microsoft.com/azureservicefabric/)
+* [Continuous Delivery for Service Fabric via Github, Travis CI and Docker Compose](https://www.microsoft.com/developerblog/2018/01/18/continuous-delivery-service-fabric-via-github-travis-ci-docker-compose/)
+* [Deploying a Linux Python web application to Service Fabric via Docker Compose](https://www.microsoft.com/developerblog/2018/01/09/deploying-a-linux-python-web-application-to-service-fabric-via-docker-compose/)
+
+Training, Courses and Books
+-------------------
+* [Building Microservices Applications on Azure Service Fabric](https://mva.microsoft.com/en-us/training-courses/building-microservices-applications-on-azure-service-fabric-16747?l=tbuZM46yC_5206218965)
+* [Service Fabric Patterns and Practices](https://mva.microsoft.com/en-us/training-courses/azure-service-fabric-patterns-and-practices-16925?l=mudwqISGD_6005167344)
+* [Programming Microsoft Azure Service Fabric](https://www.microsoftpressstore.com/store/programming-microsoft-azure-service-fabric-9781509301881)
+* [Understanding the Programming Models of Azure Service Fabric](https://www.pluralsight.com/courses/azure-service-fabric-programming-models)
+* [Service Fabric on Channel9](https://channel9.msdn.com/Search?term=service%20fabric#pubDate=year&ch9Search&lang-en=en)
