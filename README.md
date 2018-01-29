@@ -29,29 +29,41 @@ Installation / Setup
 -------------------
 * Setting up a [Windows development environment](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started)
 * Setting up a [Linux development environment](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started-linux)
+* [Vagrant Linux one-box deployment](https://github.com/Azure/service-fabric-linux-vagrant-onebox) - Vagrantfile for setting up a one-box Linux Service Fabric cluster.
+* [Docker Linux one-box deployment](https://hub.docker.com/r/servicefabricoss/service-fabric-onebox/) - Docker image on Dockerhub for one-box Linux Service Fabric cluster deployments.
+
+Source
+-------------------
+[Service Fabric Open Source Projects](https://github.com/Azure/service-fabric) - Service Fabric homepage for OSS projects
 
 Testing
 -------------------
 
 Continuous Integration, Monitoring & Delivery
 -------------------
-* [Service Fabric Watchdog](https://github.com/peterbryntesson/ServiceFabric.Watchdog) - A framework for exposing custom metrics and monitoring them with a watchdog in Azure Service Fabric. 
+* [Service Fabric Watchdog](https://github.com/peterbryntesson/ServiceFabric.Watchdog) - A framework for exposing custom metrics and monitoring them with a watchdog in Azure Service Fabric.
+* [Jenkins CI/CD with Service Fabric](https://channel9.msdn.com/Shows/Azure-Friday/Jenkins-CICD-with-Service-Fabric) - Setup a CI/CD pipeline for Service Fabric using Jenkins.
+* [Visual Studio Team Services CI/CD with Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-tutorial-deploy-app-with-cicd-vsts) - Setup a CI/CD pipeline for Service Fabric using VSTS.
 
 Networking and Routing
 -------------------
-* [Traefik on Service Fabric](https://github.com/jjcollinge/traefik-on-service-fabric/) - Ingress and Routing provider to enable [Traefik](https://traefik.io/) integration
+* [Traefik on Service Fabric](https://github.com/jjcollinge/traefik-on-service-fabric/) - Ingress and Routing provider to enable [Traefik](https://traefik.io/) integration.
 
 Code, SDKs and Integrations
 -------------------
-* [Unofficial Management SDK for golang](https://godoc.org/github.com/jjcollinge/servicefabric) - Package servicefabric is an opinionated Service Fabric client written in Golang
-* [Example Hosting Redis](https://github.com/lawrencegripper/RedisOnSerivceFabric-Example) - An example project showing two different approaches for hosting Redis as a GuestExecutable
-* [IAsyncEnumerable Bridge for Service Fabric Reliable Collections](https://gist.github.com/aelij/987d974c811865029564f1bbeffb6b47) - An IAsyncEnumerable Bridge to enable LINQ like queries on Service Fabric Reliable Collections 
+* [Unofficial Management SDK for golang](https://godoc.org/github.com/jjcollinge/servicefabric) - Package servicefabric is an opinionated Service Fabric client written in Golang.
+* [Example Hosting Redis](https://github.com/lawrencegripper/RedisOnSerivceFabric-Example) - An example project showing two different approaches for hosting Redis as a GuestExecutable.
+* [IAsyncEnumerable Bridge for Service Fabric Reliable Collections](https://gist.github.com/aelij/987d974c811865029564f1bbeffb6b47) - An IAsyncEnumerable Bridge to enable LINQ like queries on Service Fabric Reliable Collections.
+* [Minio Server for Service Fabric](https://github.com/MedAnd/Minio.ServiceFabric) - Minio for Service Fabric is an open source object storage server with Amazon S3 compatible API.
 
 Interesting Blogs
 -------------------
 * [Service Fabric Team Blog](https://blogs.msdn.microsoft.com/azureservicefabric/)
 * [Continuous Delivery for Service Fabric via Github, Travis CI and Docker Compose](https://www.microsoft.com/developerblog/2018/01/18/continuous-delivery-service-fabric-via-github-travis-ci-docker-compose/)
 * [Deploying a Linux Python web application to Service Fabric via Docker Compose](https://www.microsoft.com/developerblog/2018/01/09/deploying-a-linux-python-web-application-to-service-fabric-via-docker-compose/)
+* [Service Fabric Under the Hood: The Cluster Resource Manager (Part 1)](https://blogs.msdn.microsoft.com/azureservicefabric/2015/12/15/service-fabric-under-the-hood-the-cluster-resource-manager-part-1/)
+* [Service Fabric Under the Hood: The Cluster Resource Manager (Part 2)](https://blogs.msdn.microsoft.com/azureservicefabric/2016/01/14/service-fabric-under-the-hood-the-cluster-resource-manager-part-2/)
+* [Azure services explained – Part 1: Azure Service Fabric](https://www.dynatrace.com/blog/azure-services-explained-part-1-azure-service-fabric/)
 
 Training, Courses and Books
 -------------------
@@ -60,3 +72,4 @@ Training, Courses and Books
 * [Programming Microsoft Azure Service Fabric](https://www.microsoftpressstore.com/store/programming-microsoft-azure-service-fabric-9781509301881)
 * [Understanding the Programming Models of Azure Service Fabric](https://www.pluralsight.com/courses/azure-service-fabric-programming-models)
 * [Service Fabric on Channel9](https://channel9.msdn.com/Search?term=service%20fabric#pubDate=year&ch9Search&lang-en=en)
+* [Why Service Fabric?](https://www.lynda.com/Azure-tutorials/Why-Azure-Service-Fabric/573134/590379-4.html)
