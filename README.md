@@ -30,7 +30,6 @@ Installation / Setup
 * Setting up a [Windows development environment](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started)
 * Setting up a [Linux development environment](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started-linux)
 * [Vagrant Linux one-box deployment](https://github.com/Azure/service-fabric-linux-vagrant-onebox) - Vagrantfile for setting up a one-box Linux Service Fabric cluster.
-* [Docker Linux one-box deployment](https://hub.docker.com/r/servicefabricoss/service-fabric-onebox/) - Docker image on Dockerhub for one-box Linux Service Fabric cluster deployments.
 
 Source
 -------------------
