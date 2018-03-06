@@ -64,6 +64,7 @@ Interesting Blogs
 * [Service Fabric Under the Hood: The Cluster Resource Manager (Part 1)](https://blogs.msdn.microsoft.com/azureservicefabric/2015/12/15/service-fabric-under-the-hood-the-cluster-resource-manager-part-1/)
 * [Service Fabric Under the Hood: The Cluster Resource Manager (Part 2)](https://blogs.msdn.microsoft.com/azureservicefabric/2016/01/14/service-fabric-under-the-hood-the-cluster-resource-manager-part-2/)
 * [Azure services explained – Part 1: Azure Service Fabric](https://www.dynatrace.com/blog/azure-services-explained-part-1-azure-service-fabric/)
+* [Unit testing in Azure Service Fabric](https://loekd.wordpress.com/2018/03/05/unit-testing-in-azure-service-fabric/)
 
 Training, Courses and Books
 -------------------
