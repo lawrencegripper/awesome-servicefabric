@@ -37,6 +37,7 @@ Source
 
 Testing
 -------------------
+* [Service Fabric Mocks](https://www.nuget.org/packages/ServiceFabric.Mocks/) - Contains many Mock and helper classes to facilitate and simplify unit testing of Service Fabric Actors and Services.
 
 Continuous Integration, Monitoring & Delivery
 -------------------
