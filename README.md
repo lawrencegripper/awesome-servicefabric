@@ -74,3 +74,11 @@ Training, Courses and Books
 * [Understanding the Programming Models of Azure Service Fabric](https://www.pluralsight.com/courses/azure-service-fabric-programming-models)
 * [Service Fabric on Channel9](https://channel9.msdn.com/Search?term=service%20fabric#pubDate=year&ch9Search&lang-en=en)
 * [Why Service Fabric?](https://www.lynda.com/Azure-tutorials/Why-Azure-Service-Fabric/573134/590379-4.html)
+
+Hacks, Samples and Labs
+
+-------------------
+
+* [Service Fabric Challenges](https://github.com/kagowda/India-Hackathon)
+* [Service Fabric Windows Container Lab](https://github.com/MikkelHegn/ContainersSFLab)
+* [Service Fabric Samples](https://azure.microsoft.com/en-us/resources/samples/?service=service-fabric&sort=0)
