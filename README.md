@@ -76,9 +76,7 @@ Training, Courses and Books
 * [Why Service Fabric?](https://www.lynda.com/Azure-tutorials/Why-Azure-Service-Fabric/573134/590379-4.html)
 
 Hacks, Samples and Labs
-
 -------------------
-
 * [Service Fabric Challenges](https://github.com/kagowda/India-Hackathon)
 * [Service Fabric Windows Container Lab](https://github.com/MikkelHegn/ContainersSFLab)
 * [Service Fabric Samples](https://azure.microsoft.com/en-us/resources/samples/?service=service-fabric&sort=0)
