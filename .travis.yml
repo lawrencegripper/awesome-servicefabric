@@ -1,0 +1,5 @@
+services:
+  - docker
+
+script:
+- chmod +x ./checks.sh && sudo ./checks.sh
