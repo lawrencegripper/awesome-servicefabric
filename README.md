@@ -35,6 +35,10 @@ Source
 -------------------
 [Service Fabric Open Source Projects](https://github.com/Azure/service-fabric) - Service Fabric homepage for OSS projects
 
+Development
+-------------------
+* [CoherentSolutions.Extensions.Hosting.ServiceFabric](https://github.com/coherentsolutionsinc/aspnetcore-service-fabric-hosting) - Contains a extension methods for generic host to simplify configuration of Reliable Services and reduce amount of hand written code. The project infrastructure also supports common logging / tracing, dependency injection and configuration scenarios. 
+
 Testing
 -------------------
 * [Service Fabric Mocks](https://www.nuget.org/packages/ServiceFabric.Mocks/) - Contains many Mock and helper classes to facilitate and simplify unit testing of Service Fabric Actors and Services.
@@ -65,6 +69,7 @@ Interesting Blogs
 * [Service Fabric Under the Hood: The Cluster Resource Manager (Part 2)](https://blogs.msdn.microsoft.com/azureservicefabric/2016/01/14/service-fabric-under-the-hood-the-cluster-resource-manager-part-2/)
 * [Azure services explained – Part 1: Azure Service Fabric](https://www.dynatrace.com/blog/azure-services-explained-part-1-azure-service-fabric/)
 * [Unit testing in Azure Service Fabric](https://loekd.wordpress.com/2018/03/05/unit-testing-in-azure-service-fabric/)
+* [Service Fabric Handbook](https://olegkarasik.wordpress.com/2018/10/03/service-fabric-handbook/)
 
 Training, Courses and Books
 -------------------
