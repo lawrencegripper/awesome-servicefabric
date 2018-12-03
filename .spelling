@@ -32,3 +32,4 @@ S3
 8
 9
 CoherentSolutions.Extensions.Hosting.ServiceFabric
+StatefulServiceBase
