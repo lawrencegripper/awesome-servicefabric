@@ -48,6 +48,7 @@ Continuous Integration, Monitoring & Delivery
 * [Service Fabric Watchdog](https://github.com/peterbryntesson/ServiceFabric.Watchdog) - A framework for exposing custom metrics and monitoring them with a watchdog in Azure Service Fabric.
 * [Jenkins CI/CD with Service Fabric](https://channel9.msdn.com/Shows/Azure-Friday/Jenkins-CICD-with-Service-Fabric) - Setup a CI/CD pipeline for Service Fabric using Jenkins.
 * [Visual Studio Team Services CI/CD with Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-tutorial-deploy-app-with-cicd-vsts) - Setup a CI/CD pipeline for Service Fabric using VSTS.
+* [Service Fabric Run-Tests](https://hub.docker.com/r/coherentsolutions/service-fabric-run-tests/) - A Linux docker image for execution of unit test that use Service Fabric classes (i.e. StatefulServiceBase).
 
 Networking and Routing
 -------------------
