@@ -33,3 +33,5 @@ S3
 9
 CoherentSolutions.Extensions.Hosting.ServiceFabric
 StatefulServiceBase
+v2
+remoting
