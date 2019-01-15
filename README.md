@@ -60,6 +60,7 @@ Code, SDKs and Integrations
 * [Example Hosting Redis](https://github.com/lawrencegripper/RedisOnSerivceFabric-Example) - An example project showing two different approaches for hosting Redis as a GuestExecutable.
 * [IAsyncEnumerable Bridge for Service Fabric Reliable Collections](https://gist.github.com/aelij/987d974c811865029564f1bbeffb6b47) - An IAsyncEnumerable Bridge to enable LINQ like queries on Service Fabric Reliable Collections.
 * [Minio Server for Service Fabric](https://github.com/MedAnd/Minio.ServiceFabric) - Minio for Service Fabric is an open source object storage server with Amazon S3 compatible API.
+* [Custom Headers For Remoting](https://github.com/Expecho/ServiceFabric-Remoting-CustomHeaders) - Allows injecting custom message headers into remoting messages (Actors and Reliable Services, V2 remoting only) 
 
 Interesting Blogs
 -------------------
