@@ -87,3 +87,9 @@ Hacks, Samples and Labs
 * [Service Fabric Challenges](https://github.com/kagowda/India-Hackathon)
 * [Service Fabric Windows Container Lab](https://github.com/MikkelHegn/ContainersSFLab)
 * [Service Fabric Samples](https://azure.microsoft.com/en-us/resources/samples/?service=service-fabric&sort=0)
+
+Comparisons with Kubernetes
+-------------------
+* [Service Fabric and Kubernetes: community comparison, part 1 – Distributed Systems Architecture](https://blogs.msdn.microsoft.com/azuredev/2018/08/15/service-fabric-and-kubernetes-comparison-part-1-distributed-systems-architecture/)
+* [Multi-Container Sample with Service Fabric and Kubernetes](https://github.com/paolosalvatori/service-fabric-acs-kubernetes-multi-container-app)
+* [Difference between Kubernetes and Service Fabric](https://stackoverflow.com/questions/48415057/difference-between-kubernetes-and-service-fabric)
