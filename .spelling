@@ -35,3 +35,5 @@ CoherentSolutions.Extensions.Hosting.ServiceFabric
 StatefulServiceBase
 v2
 remoting
+Kubernetes
+kubernetes
